@@ -1,6 +1,6 @@
 <?php
 
-namespace Behat\Bootstrap;
+namespace SimplyCodedSoftware\Tracing\Behat\Bootstrap;
 
 use Behat\Behat\Context\Context;
 use Behat\Gherkin\Node\TableNode;
